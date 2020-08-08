@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="raspberry" type="NodeJSConfigurationType" path-to-node="sshConfig://pi@10.10.18.123:22 key/usr/local/bin/node" working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>

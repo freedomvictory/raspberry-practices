@@ -1,1 +1,19 @@
 # raspberry-practices
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## FAQ 
